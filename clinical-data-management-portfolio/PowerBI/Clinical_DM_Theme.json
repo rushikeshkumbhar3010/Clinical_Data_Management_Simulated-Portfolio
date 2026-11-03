@@ -1,0 +1,22 @@
+{
+  "name": "Clinical Data Management",
+  "dataColors": ["#2A78D6", "#EB6834", "#1BAF7A", "#EDA100", "#E87BA4", "#6250D6", "#008300", "#E34948"],
+  "background": "#FFFFFF", "foreground": "#14202B", "tableAccent": "#2A78D6",
+  "good": "#0B7A4B", "neutral": "#EDA100", "bad": "#C2371F",
+  "maximum": "#0D366B", "center": "#86B6EF", "minimum": "#CDE2FB",
+  "textClasses": {
+    "label": {"fontSize": 11, "fontFace": "Segoe UI", "color": "#475766"},
+    "title": {"fontSize": 13, "fontFace": "Segoe UI Semibold", "color": "#14202B"},
+    "callout": {"fontSize": 28, "fontFace": "Segoe UI Semibold", "color": "#14202B"},
+    "header": {"fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#14202B"}
+  },
+  "visualStyles": {
+    "page": {"*": {"background": [{"color": {"solid": {"color": "#EAEEF2"}}, "transparency": 0}]}},
+    "*": {"*": {
+      "title": [{"show": true, "fontColor": {"solid": {"color": "#14202B"}}, "fontSize": 13}],
+      "background": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+      "border": [{"show": true, "color": {"solid": {"color": "#DBE2E8"}}, "radius": 4}],
+      "gridlineStyle": [{"show": true, "gridlineColor": {"solid": {"color": "#DBE2E8"}}}]
+    }}
+  }
+}

@@ -1,0 +1,521 @@
+AE_ID,Subject_ID,Site_ID,AE_Term,MedDRA_PT,AE_Start_Date,AE_End_Date,Ongoing,Severity,Serious,Causality,Outcome,SAE_Form_Received
+AE-0001,S01-001,S01,Diarrhoea,Diarrhoea,2026-03-06,2026-03-22,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0002,S01-001,S01,Cough,Cough,2026-03-08,2026-03-23,N,Mild,No,Possible,Recovering/Resolving,NA
+AE-0003,S01-001,S01,Fatigue,Fatigue,2026-03-25,2026-04-09,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0004,S01-003,S01,Fatigue,Fatigue,2026-04-03,2026-04-15,N,Severe,No,Possible,Recovered/Resolved,NA
+AE-0005,S01-003,S01,Vomiting,Vomiting,2026-04-19,2026-04-20,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0006,S01-003,S01,Dyspnoea,Dyspnoea,2026-04-22,2026-04-28,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0007,S01-004,S01,Increased ALT,Alanine aminotransferase increased,2026-02-28,,Y,Mild,No,Probable,Not Recovered,NA
+AE-0008,S01-004,S01,Increased ALT,Alanine aminotransferase increased,2026-02-28,,Y,Mild,No,Probable,Not Recovered,NA
+AE-0009,S01-005,S01,Nausea,Nausea,2026-05-19,2026-05-22,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0010,S01-005,S01,Diarrhoea,Diarrhoea,2026-06-15,,Y,Mild,No,Unlikely,Recovering/Resolving,NA
+AE-0011,S01-006,S01,Neutropenia,Neutropenia,2026-03-15,,Y,Mild,No,Possible,Not Recovered,NA
+AE-0012,S01-007,S01,Cough,Cough,2026-03-04,,N,Mild,No,Possible,,NA
+AE-0013,S01-007,S01,Decreased appetite,Decreased appetite,2026-03-28,,N,Moderate,No,Unrelated,,NA
+AE-0014,S01-008,S01,Decreased appetite,Decreased appetite,2026-03-17,2026-03-22,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0015,S01-009,S01,Skin rash,Rash,2026-05-17,2026-06-06,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0016,S01-011,S01,Nausea,Nausea,2026-06-08,2026-06-10,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0017,S01-011,S01,Skin rash,Rash,2026-07-02,,Y,Mild,No,Unlikely,Recovering/Resolving,NA
+AE-0018,S01-012,S01,Fatigue,Fatigue,2026-05-24,2026-06-05,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0019,S01-013,S01,Nausea,Nausea,2026-07-26,2026-07-29,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0020,S01-015,S01,Dyspnoea,Dyspnoea,2026-03-05,2026-02-28,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0021,S01-015,S01,Constipation,Constipation,2026-04-10,2026-04-21,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0022,S01-016,S01,Skin rash,Rash,2026-05-30,2026-06-06,N,Mild,No,Probable,Recovering/Resolving,NA
+AE-0023,S01-017,S01,Neutropenia,Neutropenia,2026-03-26,2026-03-28,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0024,S01-017,S01,Neutropenia,Neutropenia,2026-04-02,2026-04-12,N,Mild,No,Possible,Recovering/Resolving,NA
+AE-0025,S01-018,S01,Peripheral neuropathy,Peripheral sensory neuropathy,2026-03-17,2026-04-05,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0026,S01-018,S01,Decreased appetite,Decreased appetite,2026-04-05,2026-04-25,N,Severe,Yes,Possible,Recovered/Resolved,Y
+AE-0027,S01-019,S01,Nausea,Nausea,2026-05-29,2026-06-07,N,Severe,No,Possible,Recovered/Resolved,NA
+AE-0028,S01-019,S01,Diarrhoea,Diarrhoea,2026-06-01,,Y,Mild,No,Definite,Not Recovered,NA
+AE-0029,S01-020,S01,Cough,Cough,2026-03-27,2026-04-09,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0030,S01-020,S01,Anaemia,Anaemia,2026-04-03,2026-04-17,N,Moderate,No,Unlikely,Recovering/Resolving,NA
+AE-0031,S01-020,S01,Vomiting,Vomiting,2026-05-29,2026-06-11,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0032,S01-021,S01,Neutropenia,Neutropenia,2026-03-21,,N,Mild,No,Probable,,NA
+AE-0033,S01-021,S01,Decreased appetite,Decreased appetite,2026-05-02,2026-05-04,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0034,S01-022,S01,Decreased appetite,Decreased appetite,2026-04-09,2026-04-22,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0035,S01-022,S01,Pyrexia,Pyrexia,2026-05-13,2026-05-31,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0036,S01-023,S01,Dyspnoea,Dyspnoea,2026-04-10,2026-04-17,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0037,S01-023,S01,Increased ALT,Alanine aminotransferase increased,2026-04-12,2026-04-26,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0038,S01-023,S01,Decreased appetite,Decreased appetite,2026-04-24,2026-05-13,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0039,S01-025,S01,Increased ALT,Alanine aminotransferase increased,2026-06-23,2026-06-29,N,Severe,No,Probable,Recovered/Resolved,NA
+AE-0040,S01-025,S01,Headache,Headache,2026-06-27,2026-07-03,N,Severe,No,Probable,Recovered/Resolved,NA
+AE-0041,S01-026,S01,Constipation,Constipation,2026-06-20,2026-06-27,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0042,S01-027,S01,Skin rash,Rash,2026-04-10,,N,Moderate,No,Possible,,NA
+AE-0043,S01-028,S01,Pneumonitis,Pneumonitis,2026-05-27,2026-06-13,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0044,S01-028,S01,Headache,Headache,2026-07-13,2026-07-17,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0045,S01-029,S01,Pneumonitis,Pneumonitis,2026-07-12,2026-07-27,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0046,S01-030,S01,Nausea,Nausea,2026-02-28,2026-03-14,N,Mild,No,Probable,Recovering/Resolving,NA
+AE-0047,S01-030,S01,Fatigue,Fatigue,2026-03-25,2026-04-02,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0048,S01-030,S01,Vomiting,Vomiting,2026-04-13,2026-04-08,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0049,S01-031,S01,Fatigue,Fatigue,2026-03-27,2026-03-30,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0050,S01-031,S01,Peripheral neuropathy,Peripheral sensory neuropathy,2026-03-28,2026-03-31,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0051,S01-031,S01,Decreased appetite,Decreased appetite,2026-04-05,2026-04-17,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0052,S01-031,S01,Cough,Cough,2026-06-02,2026-06-11,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0053,S01-031,S01,Cough,Cough,2026-06-06,2026-06-13,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0054,S01-031,S01,Pyrexia,Pyrexia,2026-06-13,,Y,Mild,No,Probable,Recovering/Resolving,NA
+AE-0055,S01-032,S01,Headache,Headache,2026-02-14,2026-03-04,N,Severe,Yes,Definite,Recovered/Resolved,N
+AE-0056,S01-032,S01,Vomiting,Vomiting,2026-04-15,2026-04-20,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0057,S01-033,S01,Headache,Headache,2026-05-08,2026-05-11,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0058,S01-033,S01,Anaemia,Anaemia,2026-06-04,2026-06-24,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0059,S01-034,S01,Cough,Cough,2026-07-01,2026-07-10,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0060,S01-035,S01,Cough,Cough,2026-04-13,,Y,Moderate,No,Unlikely,Recovering/Resolving,NA
+AE-0061,S01-035,S01,Cough,Cough,2026-04-13,,Y,Moderate,No,Unlikely,Recovering/Resolving,NA
+AE-0062,S01-035,S01,Peripheral neuropathy,Peripheral sensory neuropathy,2026-04-24,2026-04-25,N,Severe,No,Definite,Recovered/Resolved,NA
+AE-0063,S01-035,S01,Headache,Headache,2026-05-21,2026-05-25,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0064,S01-037,S01,Increased ALT,Alanine aminotransferase increased,2026-02-24,,N,Mild,No,Probable,,NA
+AE-0065,S01-038,S01,Constipation,Constipation,2026-04-21,2026-04-27,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0066,S01-038,S01,Diarrhoea,Diarrhoea,2026-06-15,2026-06-27,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0067,S01-038,S01,Vomiting,Vomiting,2026-07-08,2026-07-15,N,Severe,No,Possible,Recovered/Resolved,NA
+AE-0068,S01-040,S01,Anaemia,Anaemia,2026-03-12,2026-03-19,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0069,S01-040,S01,Skin rash,Rash,2026-03-16,2026-03-17,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0070,S01-040,S01,Cough,Cough,2026-03-20,2026-03-24,N,Severe,No,Unlikely,Recovered/Resolved,NA
+AE-0071,S01-041,S01,Diarrhoea,Diarrhoea,2026-05-04,2026-05-14,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0072,S02-002,S02,Skin rash,Rash,2026-04-14,2026-04-21,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0073,S02-002,S02,Decreased appetite,Decreased appetite,2026-05-29,2026-06-17,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0074,S02-003,S02,Decreased appetite,Decreased appetite,2026-03-11,2026-03-12,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0075,S02-004,S02,Pyrexia,Pyrexia,2026-03-14,2026-03-25,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0076,S02-004,S02,Vomiting,Vomiting,2026-04-13,2026-04-25,N,Severe,No,Possible,Recovered/Resolved,NA
+AE-0077,S02-004,S02,Decreased appetite,Decreased appetite,2026-04-29,2026-05-02,N,Severe,Yes,Unlikely,Recovered/Resolved,N
+AE-0078,S02-005,S02,Skin rash,Rash,2026-06-09,2026-06-17,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0079,S02-005,S02,Skin rash,Rash,2026-06-09,2026-06-17,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0080,S02-007,S02,Diarrhoea,Diarrhoea,2026-05-29,2026-06-14,N,Mild,No,Definite,Recovering/Resolving,NA
+AE-0081,S02-010,S02,Vomiting,Vomiting,2026-06-08,2026-06-09,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0082,S02-012,S02,Skin rash,Rash,2026-03-30,2026-03-25,N,Severe,No,Unrelated,Recovered/Resolved,NA
+AE-0083,S02-012,S02,Headache,Headache,2026-04-06,2026-04-07,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0084,S02-013,S02,Peripheral neuropathy,Peripheral sensory neuropathy,2026-03-10,2026-03-11,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0085,S02-015,S02,Fatigue,Fatigue,2026-05-21,2026-06-07,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0086,S02-015,S02,Increased ALT,Alanine aminotransferase increased,2026-06-13,2026-06-27,N,Severe,No,Unrelated,Recovered/Resolved,NA
+AE-0087,S02-015,S02,Headache,Headache,2026-06-21,2026-07-04,N,Severe,Yes,Unlikely,Recovered/Resolved,N
+AE-0088,S02-017,S02,Fatigue,Fatigue,2026-05-31,2026-06-13,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0089,S02-017,S02,Increased ALT,Alanine aminotransferase increased,2026-06-24,2026-06-27,N,Moderate,No,Probable,Recovering/Resolving,NA
+AE-0090,S02-017,S02,Nausea,Nausea,2026-06-25,,Y,Mild,No,Possible,Not Recovered,NA
+AE-0091,S02-017,S02,Fatigue,Fatigue,2026-06-29,2026-07-12,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0092,S02-018,S02,Pyrexia,Pyrexia,2026-02-16,2026-05-10,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0093,S02-019,S02,Decreased appetite,Decreased appetite,2026-05-08,2026-05-16,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0094,S02-019,S02,Nausea,Nausea,2026-06-29,2026-07-03,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0095,S02-019,S02,Diarrhoea,Diarrhoea,2026-07-04,2026-07-08,N,Mild,No,Probable,Recovering/Resolving,NA
+AE-0096,S02-019,S02,Diarrhoea,Diarrhoea,2026-07-04,2026-07-08,N,Mild,No,Probable,Recovering/Resolving,NA
+AE-0097,S02-021,S02,Skin rash,Rash,2026-03-21,2026-04-10,N,Moderate,No,Unlikely,Recovering/Resolving,NA
+AE-0098,S02-021,S02,Nausea,Nausea,2026-04-03,2026-04-07,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0099,S02-024,S02,Pyrexia,Pyrexia,2026-04-23,2026-04-24,N,Mild,No,Possible,Recovering/Resolving,NA
+AE-0100,S02-024,S02,Skin rash,Rash,2026-06-26,2026-07-15,N,Mild,No,Possible,Recovering/Resolving,NA
+AE-0101,S02-025,S02,Neutropenia,Neutropenia,2026-04-13,,Y,Moderate,No,Definite,Recovering/Resolving,NA
+AE-0102,S02-025,S02,Dyspnoea,Dyspnoea,2026-05-12,2026-05-13,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0103,S02-027,S02,Dyspnoea,Dyspnoea,2026-04-01,2026-04-19,N,Severe,Yes,Possible,Recovered/Resolved,N
+AE-0104,S02-028,S02,Decreased appetite,Decreased appetite,2026-06-14,2026-06-30,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0105,S02-029,S02,Dyspnoea,Dyspnoea,2026-05-21,2026-05-29,N,Mild,No,Unlikely,Recovering/Resolving,NA
+AE-0106,S02-030,S02,Vomiting,Vomiting,2026-05-05,2026-05-12,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0107,S02-030,S02,Nausea,Nausea,2026-06-18,2026-06-23,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0108,S02-031,S02,Cough,Cough,2026-02-06,2026-02-09,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0109,S02-031,S02,Skin rash,Rash,2026-04-04,2026-04-08,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0110,S02-031,S02,Headache,Headache,2026-04-20,2026-04-22,N,Severe,Yes,Unrelated,Recovered/Resolved,Y
+AE-0111,S02-032,S02,Nausea,Nausea,2026-03-12,2026-03-30,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0112,S02-032,S02,Vomiting,Vomiting,2026-03-24,2026-04-01,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0113,S02-033,S02,Fatigue,Fatigue,2026-06-06,2026-06-20,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0114,S02-034,S02,Cough,Cough,2026-03-24,2026-04-03,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0115,S02-034,S02,Nausea,Nausea,2026-05-25,2026-06-08,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0116,S02-037,S02,Skin rash,Rash,2026-04-10,2026-04-25,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0117,S02-038,S02,Vomiting,Vomiting,2026-04-11,2026-04-12,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0118,S02-039,S02,Cough,Cough,2026-01-13,2026-03-08,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0119,S02-039,S02,Peripheral neuropathy,Peripheral sensory neuropathy,2026-02-16,,Y,Moderate,No,Possible,Not Recovered,NA
+AE-0120,S02-039,S02,Peripheral neuropathy,Peripheral sensory neuropathy,2026-02-16,,Y,Moderate,No,Possible,Not Recovered,NA
+AE-0121,S02-039,S02,Fatigue,Fatigue,2026-03-01,2026-03-08,N,Mild,No,Unlikely,Recovering/Resolving,NA
+AE-0122,S02-040,S02,Diarrhoea,Diarrhoea,2026-04-19,2026-04-27,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0123,S02-041,S02,Fatigue,Fatigue,2026-04-06,2026-04-18,N,Mild,No,Unrelated,Recovering/Resolving,NA
+AE-0124,S02-041,S02,Nausea,Nausea,2026-04-12,2026-04-22,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0125,S02-042,S02,Neutropenia,Neutropenia,2026-05-10,2026-05-16,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0126,S02-042,S02,Increased ALT,Alanine aminotransferase increased,2026-06-22,2026-07-10,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0127,S02-043,S02,Decreased appetite,Decreased appetite,2026-03-27,2026-04-16,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0128,S02-044,S02,Neutropenia,Neutropenia,2026-04-30,2026-05-05,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0129,S02-044,S02,Fatigue,Fatigue,2026-05-31,2026-06-18,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0130,S02-044,S02,Vomiting,Vomiting,2026-06-01,2026-06-13,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0131,S02-045,S02,Headache,Headache,2026-04-04,2026-04-06,N,Mild,No,Probable,Recovering/Resolving,NA
+AE-0132,S02-046,S02,Decreased appetite,Decreased appetite,2026-05-22,2026-05-26,N,Moderate,No,Definite,Recovered/Resolved,NA
+AE-0133,S02-046,S02,Cough,Cough,2026-06-28,2026-07-05,N,Mild,No,Possible,Recovering/Resolving,NA
+AE-0134,S02-046,S02,Peripheral neuropathy,Peripheral sensory neuropathy,2026-07-06,2026-07-18,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0135,S02-047,S02,Nausea,Nausea,2026-03-16,2026-04-02,N,Mild,No,Unlikely,Recovering/Resolving,NA
+AE-0136,S02-048,S02,Constipation,Constipation,2026-04-18,2026-04-30,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0137,S02-048,S02,Pyrexia,Pyrexia,2026-04-27,2026-05-14,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0138,S02-049,S02,Increased ALT,Alanine aminotransferase increased,2026-03-12,2026-03-07,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0139,S02-049,S02,Headache,Headache,2026-04-04,2026-04-24,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0140,S03-001,S03,Fatigue,Fatigue,2026-06-05,,Y,Mild,No,Unrelated,Not Recovered,NA
+AE-0141,S03-004,S03,Fatigue,Fatigue,2026-04-28,2026-05-04,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0142,S03-004,S03,Skin rash,Rash,2026-05-12,2026-05-13,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0143,S03-007,S03,Anaemia,Anaemia,2026-04-11,2026-04-14,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0144,S03-007,S03,Nausea,Nausea,2026-04-14,2026-04-24,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0145,S03-009,S03,Fatigue,Fatigue,2026-04-28,2026-05-09,N,Mild,No,Unrelated,Recovering/Resolving,NA
+AE-0146,S03-010,S03,Nausea,Nausea,2026-03-20,2026-03-28,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0147,S03-011,S03,Increased ALT,Alanine aminotransferase increased,2026-03-19,2026-03-23,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0148,S03-011,S03,Pneumonitis,Pneumonitis,2026-04-01,2026-04-19,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0149,S03-012,S03,Nausea,Nausea,2026-05-25,2026-06-11,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0150,S03-013,S03,Headache,Headache,2026-05-10,2026-05-21,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0151,S03-013,S03,Headache,Headache,2026-05-12,2026-06-01,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0152,S03-014,S03,Decreased appetite,Decreased appetite,2026-03-10,2026-03-09,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0153,S03-014,S03,Nausea,Nausea,2026-04-17,2026-05-06,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0154,S03-014,S03,Nausea,Nausea,2026-05-08,2026-05-26,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0155,S03-016,S03,Nausea,Nausea,2026-05-15,2026-05-23,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0156,S03-016,S03,Nausea,Nausea,2026-05-28,2026-06-15,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0157,S03-016,S03,Fatigue,Fatigue,2026-06-28,2026-07-12,N,Severe,Yes,Possible,Recovered/Resolved,N
+AE-0158,S03-017,S03,Cough,Cough,2026-03-16,2026-04-01,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0159,S03-017,S03,Fatigue,Fatigue,2026-03-21,2026-04-07,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0160,S03-018,S03,Pyrexia,Pyrexia,2026-05-11,2026-05-27,N,Mild,No,Unlikely,Recovering/Resolving,NA
+AE-0161,S03-018,S03,Skin rash,Rash,2026-05-22,2026-05-28,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0162,S03-018,S03,Fatigue,Fatigue,2026-06-02,2026-06-21,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0163,S03-018,S03,Cough,Cough,2026-06-09,2026-06-22,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0164,S03-018,S03,Increased ALT,Alanine aminotransferase increased,2026-06-20,,N,Mild,No,Probable,,NA
+AE-0165,S03-018,S03,Neutropenia,Neutropenia,2026-07-20,2026-08-09,N,Moderate,No,Definite,Recovering/Resolving,NA
+AE-0166,S03-019,S03,Pyrexia,Pyrexia,2026-02-22,2026-03-02,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0167,S03-019,S03,Fatigue,Fatigue,2026-03-29,2026-04-02,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0168,S03-022,S03,Cough,Cough,2026-03-27,2026-04-16,N,Mild,No,Unrelated,Recovering/Resolving,NA
+AE-0169,S03-022,S03,Nausea,Nausea,2026-03-29,2026-04-11,N,Mild,No,Unlikely,Recovering/Resolving,NA
+AE-0170,S03-022,S03,Nausea,Nausea,2026-04-02,,N,Mild,No,Possible,,NA
+AE-0171,S03-022,S03,Vomiting,Vomiting,2026-04-22,2026-04-25,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0172,S03-022,S03,Fatigue,Fatigue,2026-05-02,2026-05-14,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0173,S03-022,S03,Constipation,Constipation,2026-05-21,2026-06-08,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0174,S03-022,S03,Fatigue,Fatigue,2026-06-06,2026-06-17,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0175,S03-023,S03,Fatigue,Fatigue,2026-06-02,2026-06-06,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0176,S03-023,S03,Headache,Headache,2026-06-22,2026-07-07,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0177,S03-024,S03,Pyrexia,Pyrexia,2026-04-22,2026-04-26,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0178,S03-025,S03,Anaemia,Anaemia,2026-04-05,2026-04-20,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0179,S03-026,S03,Cough,Cough,2026-03-21,2026-03-23,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0180,S03-026,S03,Neutropenia,Neutropenia,2026-05-07,,Y,Mild,No,Unrelated,Not Recovered,NA
+AE-0181,S03-027,S03,Decreased appetite,Decreased appetite,2026-04-25,2026-04-28,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0182,S03-034,S03,Vomiting,Vomiting,2026-03-12,2026-03-11,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0183,S03-035,S03,Diarrhoea,Diarrhoea,2026-03-02,2026-03-22,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0184,S03-035,S03,Pyrexia,Pyrexia,2026-04-21,2026-04-27,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0185,S03-035,S03,Headache,Headache,2026-04-21,2026-04-25,N,Severe,Yes,Probable,Recovered/Resolved,N
+AE-0186,S03-036,S03,Decreased appetite,Decreased appetite,2026-04-26,2026-04-28,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0187,S03-038,S03,Diarrhoea,Diarrhoea,2026-05-17,2026-05-28,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0188,S03-039,S03,Vomiting,Vomiting,2026-07-23,2026-08-03,N,Severe,Yes,Definite,Recovering/Resolving,N
+AE-0189,S03-040,S03,Diarrhoea,Diarrhoea,2026-03-23,2026-03-28,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0190,S03-041,S03,Headache,Headache,2026-04-07,2026-04-18,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0191,S03-041,S03,Dyspnoea,Dyspnoea,2026-05-29,2026-06-17,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0192,S03-042,S03,Diarrhoea,Diarrhoea,2026-03-16,2026-03-27,N,Moderate,No,Probable,Recovering/Resolving,NA
+AE-0193,S03-042,S03,Dyspnoea,Dyspnoea,2026-03-30,2026-04-09,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0194,S03-042,S03,Decreased appetite,Decreased appetite,2026-05-21,2026-05-26,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0195,S03-043,S03,Headache,Headache,2026-04-17,2026-04-19,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0196,S03-043,S03,Fatigue,Fatigue,2026-04-21,2026-05-08,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0197,S03-044,S03,Fatigue,Fatigue,2026-05-23,2026-06-06,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0198,S03-044,S03,Skin rash,Rash,2026-07-08,2026-07-13,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0199,S03-046,S03,Diarrhoea,Diarrhoea,2026-06-18,2026-06-29,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0200,S04-002,S04,Skin rash,Rash,2026-05-12,,N,Mild,No,Possible,,NA
+AE-0201,S04-002,S04,Anaemia,Anaemia,2026-05-20,2026-06-03,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0202,S04-003,S04,Cough,Cough,2026-04-13,2026-04-27,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0203,S04-003,S04,Dyspnoea,Dyspnoea,2026-04-14,2026-04-15,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0204,S04-003,S04,Dyspnoea,Dyspnoea,2026-05-30,2026-06-11,N,Mild,No,Probable,Fatal,NA
+AE-0205,S04-004,S04,Skin rash,Rash,2026-06-08,,N,Moderate,No,Unlikely,,NA
+AE-0206,S04-005,S04,Nausea,Nausea,2026-05-01,2026-05-03,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0207,S04-005,S04,Nausea,Nausea,2026-06-26,2026-07-10,N,Severe,No,Unlikely,Recovering/Resolving,NA
+AE-0208,S04-006,S04,Headache,Headache,2026-03-12,2026-03-17,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0209,S04-006,S04,Decreased appetite,Decreased appetite,2026-04-21,2026-05-06,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0210,S04-006,S04,Neutropenia,Neutropenia,2026-05-13,2026-06-02,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0211,S04-008,S04,Diarrhoea,Diarrhoea,2026-06-10,2026-06-17,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0212,S04-008,S04,Anaemia,Anaemia,2026-06-10,2026-06-11,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0213,S04-010,S04,Headache,Headache,2026-01-16,2026-04-08,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0214,S04-010,S04,Vomiting,Vomiting,2026-04-19,,N,Mild,No,Unlikely,,NA
+AE-0215,S04-013,S04,Dyspnoea,Dyspnoea,2026-02-23,2026-03-05,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0216,S04-013,S04,Increased ALT,Alanine aminotransferase increased,2026-03-22,2026-03-27,N,Mild,No,Possible,Recovering/Resolving,NA
+AE-0217,S04-013,S04,Cough,Cough,2026-04-05,2026-04-17,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0218,S04-013,S04,Fatigue,Fatigue,2026-04-07,2026-04-14,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0219,S04-014,S04,Nausea,Nausea,2026-02-26,2026-03-04,N,Moderate,No,Definite,Recovered/Resolved,NA
+AE-0220,S04-014,S04,Neutropenia,Neutropenia,2026-03-21,2026-04-04,N,Severe,Yes,Possible,Recovered/Resolved,Y
+AE-0221,S04-014,S04,Fatigue,Fatigue,2026-03-27,,Y,Moderate,No,Possible,Not Recovered,NA
+AE-0222,S04-015,S04,Headache,Headache,2026-02-21,2026-03-12,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0223,S04-016,S04,Pneumonitis,Pneumonitis,2026-06-12,2026-06-29,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0224,S04-017,S04,Nausea,Nausea,2026-04-27,2026-05-06,N,Severe,No,Unrelated,Recovered/Resolved,NA
+AE-0225,S04-017,S04,Skin rash,Rash,2026-05-02,2026-05-09,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0226,S04-017,S04,Dyspnoea,Dyspnoea,2026-05-06,2026-05-15,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0227,S04-018,S04,Neutropenia,Neutropenia,2026-04-10,2026-04-11,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0228,S04-019,S04,Diarrhoea,Diarrhoea,2026-05-08,2026-05-12,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0229,S04-019,S04,Diarrhoea,Diarrhoea,2026-05-24,2026-06-01,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0230,S04-020,S04,Anaemia,Anaemia,2026-04-12,2026-04-30,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0231,S04-021,S04,Decreased appetite,Decreased appetite,2026-02-27,2026-03-12,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0232,S04-021,S04,Fatigue,Fatigue,2026-03-25,2026-03-27,N,Severe,No,Probable,Recovered/Resolved,NA
+AE-0233,S04-023,S04,Vomiting,Vomiting,2026-05-03,,N,Mild,No,Probable,,NA
+AE-0234,S04-027,S04,Nausea,Nausea,2026-05-15,2026-05-19,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0235,S04-028,S04,Nausea,Nausea,2026-04-27,2026-05-02,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0236,S04-029,S04,Cough,Cough,2026-05-19,2026-05-31,N,Severe,Yes,Possible,Recovering/Resolving,Y
+AE-0237,S04-029,S04,Neutropenia,Neutropenia,2026-05-24,2026-05-29,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0238,S04-031,S04,Increased ALT,Alanine aminotransferase increased,2026-03-01,2026-03-02,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0239,S04-032,S04,Fatigue,Fatigue,2026-04-04,2026-04-09,N,Severe,No,Unlikely,Recovered/Resolved,NA
+AE-0240,S04-032,S04,Diarrhoea,Diarrhoea,2026-05-06,2026-05-10,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0241,S04-034,S04,Cough,Cough,2026-04-27,2026-04-30,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0242,S04-035,S04,Vomiting,Vomiting,2026-06-19,,N,Moderate,No,Probable,,NA
+AE-0243,S04-036,S04,Vomiting,Vomiting,2026-06-04,2026-06-03,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0244,S04-037,S04,Anaemia,Anaemia,2026-03-18,2026-03-22,N,Moderate,No,Unrelated,Recovering/Resolving,NA
+AE-0245,S04-037,S04,Neutropenia,Neutropenia,2026-03-26,2026-04-11,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0246,S04-038,S04,Increased ALT,Alanine aminotransferase increased,2026-04-08,2026-04-16,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0247,S04-038,S04,Decreased appetite,Decreased appetite,2026-05-08,2026-05-16,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0248,S04-039,S04,Cough,Cough,2026-03-26,2026-03-29,N,Mild,No,Possible,Fatal,NA
+AE-0249,S04-039,S04,Fatigue,Fatigue,2026-04-11,2026-04-16,N,Moderate,No,Definite,Recovered/Resolved,NA
+AE-0250,S04-041,S04,Neutropenia,Neutropenia,2026-05-25,2026-06-06,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0251,S04-041,S04,Fatigue,Fatigue,2026-05-29,2026-06-03,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0252,S04-042,S04,Headache,Headache,2026-02-21,2026-03-07,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0253,S04-042,S04,Fatigue,Fatigue,2026-03-23,2026-03-26,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0254,S04-042,S04,Neutropenia,Neutropenia,2026-04-16,2026-04-26,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0255,S04-043,S04,Constipation,Constipation,2026-03-12,2026-03-30,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0256,S04-043,S04,Neutropenia,Neutropenia,2026-03-29,2026-04-11,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0257,S04-043,S04,Cough,Cough,2026-04-28,2026-05-04,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0258,S04-044,S04,Headache,Headache,2026-03-28,2026-03-22,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0259,S04-044,S04,Fatigue,Fatigue,2026-04-07,2026-04-13,N,Moderate,No,Probable,Fatal,NA
+AE-0260,S04-044,S04,Headache,Headache,2026-05-06,2026-05-09,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0261,S04-044,S04,Nausea,Nausea,2026-05-20,2026-06-08,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0262,S04-045,S04,Decreased appetite,Decreased appetite,2026-06-29,2026-07-12,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0263,S04-046,S04,Fatigue,Fatigue,2026-03-30,2026-04-01,N,Severe,Yes,Unlikely,Recovered/Resolved,N
+AE-0264,S04-046,S04,Fatigue,Fatigue,2026-04-17,2026-04-26,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0265,S05-001,S05,Vomiting,Vomiting,2026-07-09,2026-07-18,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0266,S05-002,S05,Cough,Cough,2026-05-16,2026-05-25,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0267,S05-003,S05,Nausea,Nausea,2026-05-24,,Y,Mild,No,Probable,Not Recovered,NA
+AE-0268,S05-004,S05,Fatigue,Fatigue,2026-04-30,2026-05-03,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0269,S05-004,S05,Fatigue,Fatigue,2026-05-04,2026-05-08,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0270,S05-005,S05,Fatigue,Fatigue,2026-05-20,,Y,Mild,No,Unrelated,Recovering/Resolving,NA
+AE-0271,S05-005,S05,Fatigue,Fatigue,2026-07-15,2026-08-03,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0272,S05-006,S05,Headache,Headache,2026-06-08,2026-06-28,N,Severe,No,Possible,Recovered/Resolved,NA
+AE-0273,S05-006,S05,Diarrhoea,Diarrhoea,2026-06-19,2026-06-27,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0274,S05-006,S05,Decreased appetite,Decreased appetite,2026-07-06,2026-07-26,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0275,S05-006,S05,Headache,Headache,2026-07-15,2026-07-18,N,Mild,No,Possible,Fatal,NA
+AE-0276,S05-007,S05,Constipation,Constipation,2026-06-13,2026-06-23,N,Mild,No,Unlikely,Recovering/Resolving,NA
+AE-0277,S05-008,S05,Increased ALT,Alanine aminotransferase increased,2026-04-27,2026-04-28,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0278,S05-009,S05,Nausea,Nausea,2026-05-19,2026-06-08,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0279,S05-009,S05,Increased ALT,Alanine aminotransferase increased,2026-06-16,2026-07-03,N,Mild,No,Possible,Recovering/Resolving,NA
+AE-0280,S05-009,S05,Headache,Headache,2026-06-22,,Y,Mild,No,Possible,Recovering/Resolving,NA
+AE-0281,S05-009,S05,Fatigue,Fatigue,2026-06-24,2026-06-30,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0282,S05-010,S05,Diarrhoea,Diarrhoea,2026-05-16,2026-05-28,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0283,S05-010,S05,Fatigue,Fatigue,2026-05-27,2026-05-30,N,Severe,Yes,Unrelated,Recovered/Resolved,N
+AE-0284,S05-010,S05,Vomiting,Vomiting,2026-06-07,,N,Moderate,No,Possible,,NA
+AE-0285,S05-012,S05,Skin rash,Rash,2026-04-06,2026-04-25,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0286,S05-013,S05,Fatigue,Fatigue,2026-04-04,2026-04-11,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0287,S05-013,S05,Nausea,Nausea,2026-05-05,2026-05-16,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0288,S05-013,S05,Diarrhoea,Diarrhoea,2026-05-26,2026-06-10,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0289,S05-014,S05,Pneumonitis,Pneumonitis,2026-06-14,2026-06-30,N,Mild,No,Possible,Recovering/Resolving,NA
+AE-0290,S05-014,S05,Anaemia,Anaemia,2026-06-23,2026-07-05,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0291,S05-015,S05,Pneumonitis,Pneumonitis,2026-05-19,2026-06-02,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0292,S05-015,S05,Nausea,Nausea,2026-05-24,2026-05-25,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0293,S05-016,S05,Dyspnoea,Dyspnoea,2026-06-06,2026-06-16,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0294,S05-016,S05,Decreased appetite,Decreased appetite,2026-06-22,2026-07-04,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0295,S05-016,S05,Anaemia,Anaemia,2026-06-22,2026-07-10,N,Severe,Yes,Probable,Recovered/Resolved,Y
+AE-0296,S05-017,S05,Skin rash,Rash,2026-04-25,2026-04-28,N,Severe,Yes,Definite,Recovered/Resolved,N
+AE-0297,S05-017,S05,Diarrhoea,Diarrhoea,2026-05-09,2026-05-19,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0298,S05-017,S05,Peripheral neuropathy,Peripheral sensory neuropathy,2026-06-12,2026-06-21,N,Severe,Yes,Unrelated,Recovering/Resolving,Y
+AE-0299,S05-019,S05,Decreased appetite,Decreased appetite,2026-03-30,2026-04-17,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0300,S05-019,S05,Diarrhoea,Diarrhoea,2026-05-02,2026-04-29,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0301,S05-019,S05,Cough,Cough,2026-05-30,2026-06-18,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0302,S05-019,S05,Anaemia,Anaemia,2026-06-02,2026-06-21,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0303,S05-020,S05,Dyspnoea,Dyspnoea,2026-04-28,,Y,Moderate,No,Possible,Recovering/Resolving,NA
+AE-0304,S05-020,S05,Vomiting,Vomiting,2026-05-04,2026-05-06,N,Moderate,No,Unrelated,Recovering/Resolving,NA
+AE-0305,S05-020,S05,Diarrhoea,Diarrhoea,2026-05-12,2026-05-17,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0306,S05-020,S05,Skin rash,Rash,2026-06-01,2026-06-17,N,Mild,No,Possible,Recovering/Resolving,NA
+AE-0307,S05-020,S05,Decreased appetite,Decreased appetite,2026-06-06,2026-06-26,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0308,S05-020,S05,Fatigue,Fatigue,2026-06-09,2026-06-07,N,Severe,No,Possible,Recovered/Resolved,NA
+AE-0309,S05-021,S05,Anaemia,Anaemia,2026-05-16,2026-05-27,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0310,S05-021,S05,Skin rash,Rash,2026-06-08,2026-06-18,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0311,S05-022,S05,Fatigue,Fatigue,2026-04-11,2026-04-13,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0312,S05-022,S05,Nausea,Nausea,2026-06-13,2026-06-14,N,Moderate,No,Definite,Recovered/Resolved,NA
+AE-0313,S05-023,S05,Diarrhoea,Diarrhoea,2026-07-11,2026-07-30,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0314,S05-024,S05,Decreased appetite,Decreased appetite,2026-07-02,2026-07-14,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0315,S05-025,S05,Dyspnoea,Dyspnoea,2026-03-27,2026-04-02,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0316,S05-025,S05,Decreased appetite,Decreased appetite,2026-05-12,2026-05-31,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0317,S05-026,S05,Diarrhoea,Diarrhoea,2026-05-04,2026-05-13,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0318,S05-026,S05,Headache,Headache,2026-05-28,,Y,Moderate,No,Unrelated,Not Recovered,NA
+AE-0319,S05-027,S05,Headache,Headache,2026-02-13,2026-02-19,N,Severe,No,Unlikely,Recovered/Resolved,NA
+AE-0320,S05-027,S05,Vomiting,Vomiting,2026-03-06,2026-03-20,N,Severe,Yes,Possible,Recovered/Resolved,N
+AE-0321,S05-027,S05,Cough,Cough,2026-04-29,2026-05-19,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0322,S05-028,S05,Anaemia,Anaemia,2026-03-18,2026-07-04,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0323,S05-029,S05,Anaemia,Anaemia,2026-04-24,2026-05-04,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0324,S05-029,S05,Dyspnoea,Dyspnoea,2026-06-19,2026-07-08,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0325,S05-029,S05,Constipation,Constipation,2026-06-21,2026-06-25,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0326,S05-030,S05,Pyrexia,Pyrexia,2026-04-13,2026-04-27,N,Severe,No,Unrelated,Recovered/Resolved,NA
+AE-0327,S05-030,S05,Pyrexia,Pyrexia,2026-04-13,2026-04-27,N,Severe,No,Unrelated,Recovered/Resolved,NA
+AE-0328,S05-031,S05,Fatigue,Fatigue,2026-05-29,2026-06-17,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0329,S05-031,S05,Decreased appetite,Decreased appetite,2026-06-02,2026-05-27,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0330,S05-033,S05,Headache,Headache,2026-06-08,2026-06-15,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0331,S05-033,S05,Nausea,Nausea,2026-07-27,2026-07-28,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0332,S05-034,S05,Anaemia,Anaemia,2026-05-08,2026-05-23,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0333,S05-034,S05,Neutropenia,Neutropenia,2026-05-24,2026-06-02,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0334,S05-035,S05,Headache,Headache,2026-04-11,2026-04-18,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0335,S05-036,S05,Nausea,Nausea,2026-05-14,2026-05-28,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0336,S05-037,S05,Fatigue,Fatigue,2026-01-23,2026-04-04,N,Severe,No,Unlikely,Recovered/Resolved,NA
+AE-0337,S05-038,S05,Pyrexia,Pyrexia,2026-05-13,2026-05-22,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0338,S05-038,S05,Fatigue,Fatigue,2026-05-31,2026-06-06,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0339,S05-038,S05,Nausea,Nausea,2026-06-03,2026-06-06,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0340,S05-038,S05,Decreased appetite,Decreased appetite,2026-06-13,2026-06-18,N,Severe,Yes,Unrelated,Recovered/Resolved,Y
+AE-0341,S06-001,S06,Neutropenia,Neutropenia,2026-04-03,2026-04-05,N,Severe,Yes,Unlikely,Recovered/Resolved,N
+AE-0342,S06-001,S06,Headache,Headache,2026-04-09,2026-04-16,N,Severe,Yes,Unlikely,Recovered/Resolved,N
+AE-0343,S06-002,S06,Anaemia,Anaemia,2026-04-11,2026-04-14,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0344,S06-002,S06,Nausea,Nausea,2026-04-18,2026-05-06,N,Mild,No,Definite,Recovering/Resolving,NA
+AE-0345,S06-002,S06,Nausea,Nausea,2026-05-17,2026-05-28,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0346,S06-002,S06,Headache,Headache,2026-05-19,,Y,Mild,No,Unrelated,Not Recovered,NA
+AE-0347,S06-003,S06,Peripheral neuropathy,Peripheral sensory neuropathy,2026-04-10,,Y,Mild,No,Possible,Not Recovered,NA
+AE-0348,S06-003,S06,Nausea,Nausea,2026-05-18,2026-05-25,N,Severe,Yes,Definite,Recovered/Resolved,Y
+AE-0349,S06-004,S06,Skin rash,Rash,2026-03-16,,Y,Mild,No,Unrelated,Not Recovered,NA
+AE-0350,S06-006,S06,Peripheral neuropathy,Peripheral sensory neuropathy,2026-02-23,2026-02-28,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0351,S06-007,S06,Decreased appetite,Decreased appetite,2026-04-29,2026-05-19,N,Moderate,No,Definite,Recovering/Resolving,NA
+AE-0352,S06-008,S06,Increased ALT,Alanine aminotransferase increased,2026-07-03,2026-07-13,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0353,S06-009,S06,Dyspnoea,Dyspnoea,2026-04-19,2026-04-29,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0354,S06-009,S06,Skin rash,Rash,2026-05-05,2026-05-06,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0355,S06-009,S06,Decreased appetite,Decreased appetite,2026-05-15,2026-05-21,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0356,S06-010,S06,Fatigue,Fatigue,2026-05-04,2026-05-06,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0357,S06-010,S06,Cough,Cough,2026-06-23,2026-07-01,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0358,S06-011,S06,Nausea,Nausea,2026-05-28,2026-06-04,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0359,S06-013,S06,Nausea,Nausea,2026-06-23,2026-06-29,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0360,S06-014,S06,Cough,Cough,2026-04-02,,N,Severe,Yes,Possible,,Y
+AE-0361,S06-014,S06,Neutropenia,Neutropenia,2026-04-25,2026-05-03,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0362,S06-015,S06,Headache,Headache,2026-02-27,2026-03-12,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0363,S06-016,S06,Pyrexia,Pyrexia,2026-06-02,2026-06-22,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0364,S06-017,S06,Fatigue,Fatigue,2026-07-13,2026-07-25,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0365,S06-019,S06,Increased ALT,Alanine aminotransferase increased,2026-06-02,2026-06-15,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0366,S06-020,S06,Decreased appetite,Decreased appetite,2026-04-05,,Y,Mild,No,Possible,Not Recovered,NA
+AE-0367,S06-020,S06,Skin rash,Rash,2026-05-04,2026-05-18,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0368,S06-021,S06,Diarrhoea,Diarrhoea,2026-06-20,2026-06-26,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0369,S06-023,S06,Pneumonitis,Pneumonitis,2026-05-06,2026-05-16,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0370,S06-023,S06,Decreased appetite,Decreased appetite,2026-06-08,,Y,Mild,No,Probable,Not Recovered,NA
+AE-0371,S06-023,S06,Nausea,Nausea,2026-06-14,2026-06-29,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0372,S06-024,S06,Headache,Headache,2026-06-25,2026-07-05,N,Moderate,No,Definite,Recovered/Resolved,NA
+AE-0373,S06-024,S06,Diarrhoea,Diarrhoea,2026-06-26,2026-07-02,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0374,S06-024,S06,Anaemia,Anaemia,2026-07-28,2026-08-13,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0375,S06-025,S06,Anaemia,Anaemia,2026-05-01,2026-05-06,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0376,S06-026,S06,Cough,Cough,2026-01-02,2026-02-24,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0377,S06-027,S06,Fatigue,Fatigue,2026-03-22,2026-03-28,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0378,S06-030,S06,Diarrhoea,Diarrhoea,2026-03-28,2026-04-11,N,Severe,Yes,Probable,Recovering/Resolving,Y
+AE-0379,S06-030,S06,Headache,Headache,2026-03-30,,Y,Moderate,No,Possible,Recovering/Resolving,NA
+AE-0380,S06-030,S06,Fatigue,Fatigue,2026-04-05,,Y,Moderate,No,Unrelated,Recovering/Resolving,NA
+AE-0381,S06-030,S06,Vomiting,Vomiting,2026-04-09,2026-04-28,N,Severe,Yes,Unrelated,Recovered/Resolved,Y
+AE-0382,S06-030,S06,Nausea,Nausea,2026-04-21,2026-04-27,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0383,S06-031,S06,Headache,Headache,2026-04-05,2026-04-09,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0384,S06-032,S06,Constipation,Constipation,2026-03-15,2026-03-31,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0385,S06-032,S06,Cough,Cough,2026-04-03,2026-04-12,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0386,S06-032,S06,Fatigue,Fatigue,2026-04-26,2026-05-16,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0387,S06-032,S06,Dyspnoea,Dyspnoea,2026-05-15,2026-06-04,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0388,S06-033,S06,Peripheral neuropathy,Peripheral sensory neuropathy,2026-05-13,2026-05-21,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0389,S06-033,S06,Diarrhoea,Diarrhoea,2026-05-31,2026-06-15,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0390,S07-001,S07,Pneumonitis,Pneumonitis,2026-03-09,,N,Severe,No,Probable,,NA
+AE-0391,S07-005,S07,Anaemia,Anaemia,2026-05-21,2026-06-02,N,Severe,No,Unlikely,Fatal,NA
+AE-0392,S07-005,S07,Vomiting,Vomiting,2026-06-13,,Y,Severe,No,Unrelated,Recovering/Resolving,NA
+AE-0393,S07-005,S07,Dyspnoea,Dyspnoea,2026-06-23,2026-07-07,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0394,S07-006,S07,Nausea,Nausea,2026-03-23,2026-04-12,N,Mild,No,Probable,Recovering/Resolving,NA
+AE-0395,S07-006,S07,Neutropenia,Neutropenia,2026-03-28,2026-04-11,N,Severe,No,Unlikely,Recovered/Resolved,NA
+AE-0396,S07-006,S07,Headache,Headache,2026-04-13,2026-04-22,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0397,S07-007,S07,Pyrexia,Pyrexia,2026-04-16,2026-04-27,N,Severe,No,Definite,Recovered/Resolved,NA
+AE-0398,S07-007,S07,Fatigue,Fatigue,2026-04-19,2026-04-24,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0399,S07-007,S07,Decreased appetite,Decreased appetite,2026-06-17,2026-07-04,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0400,S07-008,S07,Vomiting,Vomiting,2026-01-20,2026-05-20,N,Mild,No,Unrelated,Recovering/Resolving,NA
+AE-0401,S07-008,S07,Fatigue,Fatigue,2026-03-26,2026-03-22,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0402,S07-008,S07,Skin rash,Rash,2026-03-31,2026-04-06,N,Mild,No,Unrelated,Fatal,NA
+AE-0403,S07-008,S07,Increased ALT,Alanine aminotransferase increased,2026-04-27,2026-05-06,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0404,S07-008,S07,Increased ALT,Alanine aminotransferase increased,2026-04-27,2026-05-06,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0405,S07-009,S07,Anaemia,Anaemia,2026-05-07,2026-05-13,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0406,S07-010,S07,Diarrhoea,Diarrhoea,2026-06-28,2026-07-08,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0407,S07-010,S07,Fatigue,Fatigue,2026-07-01,2026-07-02,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0408,S07-011,S07,Decreased appetite,Decreased appetite,2026-03-06,2026-03-21,N,Severe,Yes,Unrelated,Recovered/Resolved,Y
+AE-0409,S07-013,S07,Diarrhoea,Diarrhoea,2026-03-14,2026-03-15,N,Severe,No,Unrelated,Recovered/Resolved,NA
+AE-0410,S07-013,S07,Increased ALT,Alanine aminotransferase increased,2026-04-14,2026-04-30,N,Severe,Yes,Probable,Recovered/Resolved,N
+AE-0411,S07-014,S07,Fatigue,Fatigue,2026-04-24,2026-04-29,N,Severe,No,Probable,Recovered/Resolved,NA
+AE-0412,S07-015,S07,Cough,Cough,2026-04-24,2026-04-26,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0413,S07-015,S07,Nausea,Nausea,2026-04-27,2026-04-30,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0414,S07-016,S07,Headache,Headache,2026-02-15,2026-02-26,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0415,S07-016,S07,Diarrhoea,Diarrhoea,2026-02-28,2026-03-19,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0416,S07-016,S07,Fatigue,Fatigue,2026-03-22,2026-04-03,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0417,S07-016,S07,Neutropenia,Neutropenia,2026-03-29,2026-04-10,N,Mild,No,Unlikely,Recovering/Resolving,NA
+AE-0418,S07-016,S07,Vomiting,Vomiting,2026-04-01,2026-04-07,N,Severe,Yes,Possible,Recovered/Resolved,Y
+AE-0419,S07-016,S07,Vomiting,Vomiting,2026-04-15,2026-05-02,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0420,S07-017,S07,Skin rash,Rash,2026-07-01,2026-07-03,N,Severe,Yes,Possible,Fatal,Y
+AE-0421,S07-018,S07,Fatigue,Fatigue,2026-02-01,2026-04-25,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0422,S07-020,S07,Increased ALT,Alanine aminotransferase increased,2026-06-22,2026-06-29,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0423,S07-021,S07,Diarrhoea,Diarrhoea,2026-03-23,2026-04-11,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0424,S07-022,S07,Constipation,Constipation,2026-04-11,,N,Moderate,No,Probable,,NA
+AE-0425,S07-024,S07,Skin rash,Rash,2026-06-12,2026-06-23,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0426,S07-025,S07,Fatigue,Fatigue,2026-06-16,2026-06-25,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0427,S07-025,S07,Vomiting,Vomiting,2026-06-22,2026-07-01,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0428,S07-026,S07,Neutropenia,Neutropenia,2026-03-02,2026-03-09,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0429,S07-026,S07,Cough,Cough,2026-03-19,2026-04-03,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0430,S07-026,S07,Headache,Headache,2026-03-30,2026-04-18,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0431,S07-026,S07,Pyrexia,Pyrexia,2026-05-04,2026-05-05,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0432,S07-027,S07,Vomiting,Vomiting,2026-04-04,2026-04-18,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0433,S07-027,S07,Peripheral neuropathy,Peripheral sensory neuropathy,2026-04-06,,Y,Moderate,No,Probable,Not Recovered,NA
+AE-0434,S07-027,S07,Vomiting,Vomiting,2026-05-20,2026-05-21,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0435,S07-027,S07,Diarrhoea,Diarrhoea,2026-06-07,2026-06-23,N,Mild,No,Unrelated,Recovering/Resolving,NA
+AE-0436,S07-028,S07,Skin rash,Rash,2026-07-17,2026-07-27,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0437,S07-029,S07,Dyspnoea,Dyspnoea,2026-06-08,2026-06-17,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0438,S07-030,S07,Cough,Cough,2026-05-02,2026-05-08,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0439,S07-030,S07,Nausea,Nausea,2026-05-23,,Y,Moderate,No,Unlikely,Not Recovered,NA
+AE-0440,S08-001,S08,Headache,Headache,2026-03-02,2026-05-03,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0441,S08-001,S08,Headache,Headache,2026-04-09,2026-04-12,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0442,S08-002,S08,Cough,Cough,2026-04-25,2026-05-07,N,Severe,Yes,Possible,Recovered/Resolved,Y
+AE-0443,S08-004,S08,Decreased appetite,Decreased appetite,2026-03-26,,Y,Mild,No,Unrelated,Not Recovered,NA
+AE-0444,S08-005,S08,Neutropenia,Neutropenia,2026-05-31,2026-06-12,N,Severe,Yes,Unlikely,Recovered/Resolved,Y
+AE-0445,S08-006,S08,Diarrhoea,Diarrhoea,2026-02-11,2026-02-17,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0446,S08-006,S08,Skin rash,Rash,2026-03-19,2026-03-22,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0447,S08-007,S08,Peripheral neuropathy,Peripheral sensory neuropathy,2026-05-20,2026-05-26,N,Severe,Yes,Unrelated,Recovered/Resolved,Y
+AE-0448,S08-007,S08,Diarrhoea,Diarrhoea,2026-06-26,2026-07-08,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0449,S08-008,S08,Vomiting,Vomiting,2026-02-27,2026-03-11,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0450,S08-008,S08,Fatigue,Fatigue,2026-04-16,2026-05-06,N,Severe,Yes,Unrelated,Recovered/Resolved,Y
+AE-0451,S08-008,S08,Nausea,Nausea,2026-04-25,2026-04-20,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0452,S08-008,S08,Decreased appetite,Decreased appetite,2026-05-11,2026-05-21,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0453,S08-009,S08,Increased ALT,Alanine aminotransferase increased,2026-04-07,2026-04-08,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0454,S08-010,S08,Increased ALT,Alanine aminotransferase increased,2026-03-17,,N,Moderate,No,Definite,,NA
+AE-0455,S08-010,S08,Diarrhoea,Diarrhoea,2026-04-27,2026-04-30,N,Severe,Yes,Probable,Recovered/Resolved,Y
+AE-0456,S08-010,S08,Nausea,Nausea,2026-05-22,,N,Mild,No,Definite,,NA
+AE-0457,S08-011,S08,Diarrhoea,Diarrhoea,2026-04-21,2026-05-07,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0458,S08-014,S08,Headache,Headache,2026-05-15,2026-05-28,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0459,S08-014,S08,Headache,Headache,2026-05-15,2026-05-28,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0460,S08-016,S08,Peripheral neuropathy,Peripheral sensory neuropathy,2026-03-07,2026-03-14,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0461,S09-001,S09,Nausea,Nausea,2026-05-03,2026-05-07,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0462,S09-001,S09,Skin rash,Rash,2026-06-29,2026-07-13,N,Moderate,No,Definite,Recovered/Resolved,NA
+AE-0463,S09-004,S09,Skin rash,Rash,2026-05-19,2026-05-31,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0464,S09-004,S09,Pyrexia,Pyrexia,2026-05-23,2026-06-09,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0465,S09-004,S09,Increased ALT,Alanine aminotransferase increased,2026-07-03,2026-07-08,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0466,S09-004,S09,Diarrhoea,Diarrhoea,2026-07-12,,Y,Mild,No,Unrelated,Not Recovered,NA
+AE-0467,S09-005,S09,Pneumonitis,Pneumonitis,2026-05-01,2026-05-09,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0468,S09-007,S09,Constipation,Constipation,2026-04-03,2026-04-06,N,Mild,No,Possible,Recovering/Resolving,NA
+AE-0469,S09-008,S09,Pyrexia,Pyrexia,2026-05-28,2026-05-30,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0470,S09-009,S09,Cough,Cough,2026-03-24,2026-04-13,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0471,S09-009,S09,Anaemia,Anaemia,2026-04-06,2026-04-05,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0472,S09-009,S09,Fatigue,Fatigue,2026-04-28,2026-05-05,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0473,S09-010,S09,Cough,Cough,2026-04-28,2026-05-17,N,Severe,No,Unrelated,Recovering/Resolving,NA
+AE-0474,S09-010,S09,Headache,Headache,2026-05-14,2026-05-23,N,Mild,No,Unlikely,Recovering/Resolving,NA
+AE-0475,S09-010,S09,Cough,Cough,2026-06-29,2026-07-09,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0476,S09-011,S09,Decreased appetite,Decreased appetite,2026-05-07,2026-05-25,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0477,S09-011,S09,Decreased appetite,Decreased appetite,2026-06-07,2026-06-12,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0478,S09-013,S09,Decreased appetite,Decreased appetite,2026-05-24,,N,Mild,No,Unlikely,,NA
+AE-0479,S09-014,S09,Fatigue,Fatigue,2026-04-19,2026-05-08,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0480,S09-014,S09,Neutropenia,Neutropenia,2026-05-02,2026-05-12,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0481,S09-016,S09,Dyspnoea,Dyspnoea,2026-03-21,2026-03-26,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0482,S09-017,S09,Diarrhoea,Diarrhoea,2026-06-20,2026-07-07,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0483,S09-017,S09,Pneumonitis,Pneumonitis,2026-07-11,2026-07-19,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0484,S09-018,S09,Fatigue,Fatigue,2026-03-29,2026-04-18,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0485,S09-019,S09,Nausea,Nausea,2026-05-16,2026-06-02,N,Severe,No,Unlikely,Recovered/Resolved,NA
+AE-0486,S09-019,S09,Nausea,Nausea,2026-06-10,2026-06-14,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0487,S09-020,S09,Decreased appetite,Decreased appetite,2026-03-18,,Y,Mild,No,Unrelated,Recovering/Resolving,NA
+AE-0488,S09-020,S09,Fatigue,Fatigue,2026-03-23,2026-03-26,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0489,S09-021,S09,Skin rash,Rash,2026-04-08,2026-04-15,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0490,S09-021,S09,Nausea,Nausea,2026-04-09,2026-04-10,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0491,S09-021,S09,Cough,Cough,2026-04-18,2026-04-23,N,Severe,No,Probable,Fatal,NA
+AE-0492,S09-021,S09,Diarrhoea,Diarrhoea,2026-05-25,2026-06-02,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0493,S09-021,S09,Neutropenia,Neutropenia,2026-05-25,2026-06-14,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0494,S09-021,S09,Diarrhoea,Diarrhoea,2026-05-29,2026-05-30,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0495,S09-023,S09,Headache,Headache,2026-05-03,2026-05-21,N,Severe,Yes,Unrelated,Recovering/Resolving,N
+AE-0496,S09-024,S09,Anaemia,Anaemia,2026-07-12,2026-07-25,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0497,S09-024,S09,Pneumonitis,Pneumonitis,2026-07-27,2026-08-07,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0498,S09-026,S09,Cough,Cough,2026-05-06,2026-05-17,N,Moderate,No,Possible,Recovered/Resolved,NA
+AE-0499,S09-026,S09,Nausea,Nausea,2026-05-11,2026-05-06,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0500,S09-026,S09,Increased ALT,Alanine aminotransferase increased,2026-05-29,2026-06-05,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0501,S10-001,S10,Headache,Headache,2026-01-12,2026-03-28,N,Severe,No,Unlikely,Recovered/Resolved,NA
+AE-0502,S10-001,S10,Pneumonitis,Pneumonitis,2026-03-02,2026-03-05,N,Severe,No,Unrelated,Recovering/Resolving,NA
+AE-0503,S10-001,S10,Diarrhoea,Diarrhoea,2026-03-28,2026-04-07,N,Mild,No,Probable,Recovered/Resolved,NA
+AE-0504,S10-001,S10,Headache,Headache,2026-04-26,2026-05-09,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0505,S10-006,S10,Nausea,Nausea,2026-03-28,2026-04-01,N,Mild,No,Definite,Recovered/Resolved,NA
+AE-0506,S10-006,S10,Diarrhoea,Diarrhoea,2026-04-02,2026-04-04,N,Mild,No,Unrelated,Recovering/Resolving,NA
+AE-0507,S10-008,S10,Nausea,Nausea,2026-06-16,2026-06-24,N,Severe,No,Unrelated,Recovered/Resolved,NA
+AE-0508,S10-008,S10,Decreased appetite,Decreased appetite,2026-06-26,2026-07-08,N,Moderate,No,Unrelated,Recovered/Resolved,NA
+AE-0509,S10-009,S10,Anaemia,Anaemia,2026-03-10,2026-03-17,N,Moderate,No,Definite,Recovered/Resolved,NA
+AE-0510,S10-010,S10,Headache,Headache,2026-06-24,2026-06-28,N,Moderate,No,Unlikely,Recovered/Resolved,NA
+AE-0511,S10-011,S10,Constipation,Constipation,2026-03-29,2026-04-13,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0512,S10-012,S10,Increased ALT,Alanine aminotransferase increased,2026-05-13,,N,Mild,No,Probable,,NA
+AE-0513,S10-013,S10,Increased ALT,Alanine aminotransferase increased,2026-04-09,,Y,Mild,No,Possible,Not Recovered,NA
+AE-0514,S10-013,S10,Headache,Headache,2026-05-01,2026-05-03,N,Mild,No,Unlikely,Recovered/Resolved,NA
+AE-0515,S10-014,S10,Diarrhoea,Diarrhoea,2026-04-20,2026-04-24,N,Mild,No,Possible,Recovered/Resolved,NA
+AE-0516,S10-014,S10,Nausea,Nausea,2026-05-29,2026-06-17,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0517,S10-015,S10,Fatigue,Fatigue,2026-06-07,2026-06-15,N,Moderate,No,Probable,Recovered/Resolved,NA
+AE-0518,S10-017,S10,Cough,Cough,2026-04-07,2026-04-26,N,Mild,No,Unrelated,Recovered/Resolved,NA
+AE-0519,S10-018,S10,Anaemia,Anaemia,2026-07-30,,Y,Moderate,No,Possible,Not Recovered,NA
+AE-0520,S10-019,S10,Fatigue,Fatigue,2026-07-01,2026-07-15,N,Moderate,No,Possible,Recovering/Resolving,NA

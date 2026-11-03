@@ -1,0 +1,45 @@
+// ============================================================
+// Clinical Data Management – DAX measures (Power BI)
+// Create a blank table named "_Measures" (Enter Data) and add these.
+// ============================================================
+
+// ---------- Enrolment ----------
+Subjects = DISTINCTCOUNT ( Dim_Subject[Subject_ID] )
+Sites Active = DISTINCTCOUNT ( Dim_Subject[Site_ID] )
+
+// ---------- Query management ----------
+Total Queries = COUNTROWS ( Fact_Queries )
+Open Queries = CALCULATE ( [Total Queries], Fact_Queries[Query_Status] = "Open" )
+Answered Queries = CALCULATE ( [Total Queries], Fact_Queries[Query_Status] = "Answered" )
+Reissued Queries = CALCULATE ( [Total Queries], Fact_Queries[Query_Status] = "Re-issued" )
+Closed Queries = CALCULATE ( [Total Queries], Fact_Queries[Query_Status] = "Closed" )
+Backlog = [Total Queries] - [Closed Queries]
+Closure Rate % = DIVIDE ( [Closed Queries], [Total Queries] )
+Queries per 100 Subjects = DIVIDE ( [Total Queries], [Subjects] ) * 100
+
+Avg Turnaround (Bus. Days) = AVERAGE ( Fact_Queries[TAT_Days] )
+Answered In SLA =
+CALCULATE ( [Total Queries], FILTER ( Fact_Queries, NOT ISBLANK ( Fact_Queries[TAT_Days] ) && Fact_Queries[TAT_Days] <= Fact_Queries[SLA_Target_Days] ) )
+Answered Total = CALCULATE ( [Total Queries], NOT ISBLANK ( Fact_Queries[TAT_Days] ) )
+SLA Met % = DIVIDE ( [Answered In SLA], [Answered Total] )
+Oldest Open Query (Days) = CALCULATE ( MAX ( Fact_Queries[Days_Open] ), Fact_Queries[Query_Status] <> "Closed" )
+
+// ---------- Safety ----------
+Total AEs = COUNTROWS ( Fact_AdverseEvents )
+Serious AEs = CALCULATE ( [Total AEs], Fact_AdverseEvents[Serious] = "Yes" )
+Serious AE % = DIVIDE ( [Serious AEs], [Total AEs] )
+Severe AEs = CALCULATE ( [Total AEs], Fact_AdverseEvents[Severity] = "Severe" )
+Related AEs = CALCULATE ( [Total AEs], Fact_AdverseEvents[Causality] IN { "Probable", "Definite" } )
+AEs per Subject = DIVIDE ( [Total AEs], [Subjects] )
+SAEs Missing Form = CALCULATE ( [Total AEs], Fact_AdverseEvents[Serious] = "Yes", Fact_AdverseEvents[SAE_Form_Received] <> "Y" )
+
+// ---------- Data completeness ----------
+Expected Day 28 VS = CALCULATE ( COUNTROWS ( Fact_VitalSigns ), Fact_VitalSigns[Visit] = "Visit 3 (Day 28)" )
+Missing Day 28 VS = CALCULATE ( COUNTROWS ( Fact_VitalSigns ), Fact_VitalSigns[Visit] = "Visit 3 (Day 28)", ISBLANK ( Fact_VitalSigns[Systolic_BP] ) )
+VS Completeness % = 1 - DIVIDE ( [Missing Day 28 VS], [Expected Day 28 VS] )
+BP Inversions = COUNTROWS ( FILTER ( Fact_VitalSigns, Fact_VitalSigns[Systolic_BP] <= Fact_VitalSigns[Diastolic_BP] ) )
+Implausible Hemoglobin = COUNTROWS ( FILTER ( Fact_Labs, Fact_Labs[HGB_gdL] < 5 || Fact_Labs[HGB_gdL] > 20 ) )
+
+// ---------- Conditional formatting helpers ----------
+SLA Colour = IF ( [SLA Met %] >= 0.9, "#0B7A4B", IF ( [SLA Met %] >= 0.85, "#EDA100", "#C2371F" ) )
+Closure Subtitle = FORMAT ( [Closed Queries], "0" ) & " of " & FORMAT ( [Total Queries], "0" ) & " queries closed"

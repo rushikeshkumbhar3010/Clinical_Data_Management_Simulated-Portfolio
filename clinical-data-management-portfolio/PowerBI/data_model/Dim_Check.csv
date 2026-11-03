@@ -1,0 +1,14 @@
+Check_ID,Form_Name,Priority
+CK_AE_01,Adverse Events,High
+CK_AE_02,Adverse Events,Critical
+CK_AE_03,Adverse Events,High
+CK_AE_04,Adverse Events,Medium
+CK_AE_05,Adverse Events,Medium
+CK_DM_01,Demographics,High
+CK_DM_02,Demographics,Low
+CK_LB_01,Laboratory,High
+CK_VS_01,Vital Signs,High
+CK_VS_02,Vital Signs,Medium
+CK_VS_03,Vital Signs,High
+CK_VS_04,Vital Signs,High
+CK_VS_05,Vital Signs,Medium
